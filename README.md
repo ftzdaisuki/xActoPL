@@ -13,3 +13,5 @@ when complete this program will be licensed under the MIT license. I'm just maki
 this program is being written with heavy assistance from chatGPT. I believe I am doing so in what could be considered an "ethical" manner and I will upoad a video discussing this at a later date.
 
 no I'm not porting this to any phones. will look into macOS/Linux remakes once we're feature-complete-ish though.
+
+"test pictures" contains random pictures from my computer that I'm using as dummy files for testing. the unusual.fm domain is no longer controlled by me and I have no plans to renew it; browse to it at your own risk.
