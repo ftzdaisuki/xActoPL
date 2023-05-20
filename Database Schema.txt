@@ -1,0 +1,20 @@
+﻿SQL Database Schema:
+
+photos table
+    -id (int, primary key)
+    -name (text)
+    -filepath (text)
+    -date_taken (datetime)
+
+tags table
+    -id (int, primary key)
+    -name (text)
+
+photo_tags relation table
+    -photo_id (int)
+    -tag_id (int)
+
+To Do Next:
+    -Find a way to print live SQL database status - SQLite DB browser app exists, can use that to verify DB integrity
+    -Make sure photo imports are working - seems to be working
+    -Add photo grid and properties panels
